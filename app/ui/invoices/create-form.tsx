@@ -4,7 +4,6 @@ import { createInvoice, State } from '@/app/lib/actions';
 import { useFormState } from 'react-dom';
 import { CustomerField } from '@/app/lib/definitions';
 import Link from 'next/link';
-import { useState } from 'react';
 import {
   CheckIcon,
   ClockIcon,
